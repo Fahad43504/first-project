@@ -9,6 +9,7 @@ body{
     display: flex;
     width: 80%;
     margin:0 auto;
+    margin-bottom: 100px;
 }
 
 .h1-decoration{
@@ -38,3 +39,44 @@ h1{
 }
 
 
+.align{
+    text-align: center;
+}
+
+
+.flexible-container2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+}
+
+
+.image-section2{
+    width: 50%;
+}
+
+
+
+.mission{
+    width: 200px;
+    border: 1px solid gray;
+    background-color: silver;
+    border-radius: 30px;
+    padding-left: 20px;
+}
+
+.vission{
+    width: 200px;
+    border: 1px solid gray;
+    background-color:#f3f2f2;
+    border-radius: 30px;
+    padding-left: 20px;
+}
+
+.goals{
+    width: 200px;
+    border: 1px solid gray;
+    background-color:	#fbeaea;
+    border-radius: 30px;
+    padding-left: 20px;
+}
