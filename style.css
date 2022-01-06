@@ -1,3 +1,40 @@
 body{
     font-family: 'Cabin', sans-serif;
+    padding: 0;
+    margin:0;
 }
+
+
+.flexible-container{
+    display: flex;
+    width: 80%;
+    margin:0 auto;
+}
+
+.h1-decoration{
+    border-left: 3px solid teal;
+    padding-left: 10px;
+}
+
+h1{
+    font-size: 35px;
+}
+.gold-color{
+    color: gold;
+}
+
+
+.first-image{
+    width: 300px;
+   
+}
+
+.button-btn{
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-color: teal;
+    color: white;
+    
+}
+
+
