@@ -84,13 +84,13 @@ h1{
 
 .flexible-container3{
     display: flex;
-    margin: 70px;
+    margin: 80px;
     
     margin-bottom: 50px;
 }
 
 .third-image{
-    width: 85%;
+    width: 80%;
    
 
 }
@@ -99,13 +99,28 @@ h1{
 .first-banner{
     background-image: url(./images/shapes/shape-1.png);
     background-repeat: no-repeat;
-    
     width: 100%;
     background-position: left;
     background-size: 220px;
-    margin-left: 40px;
+    margin-left: 40px;   
+}
 
 
+.fourth-image{
+    width: 88%;
+    margin: 40px;
+}
+
+
+.second-banner{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    width: 80%;
+    background-position: bottom;
+    background-size: 170px;
+    margin-left: 30px;
+    background-position-x:right ;
+    
     
     
 }
